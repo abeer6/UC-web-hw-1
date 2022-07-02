@@ -1,0 +1,27 @@
+body{
+    direction: rtl;
+}
+#footer{
+    color: rgb(32, 9, 116);
+    width: 220px;
+    background-color: rgb(240, 54, 141);
+    text-align: center;
+    
+}
+.game{
+    width: 200;
+}
+div{
+    display: flex;
+    justify-content:right;
+    
+}
+.prgraph{
+    font-style:italic;
+    font-weight: bold;
+    font-family: 'Gulzar', serif;
+    
+}
+
+ 
+   
